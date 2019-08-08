@@ -1,0 +1,3 @@
+data_path = /home/sleon/MNM_version2/Mingle/manual_annotations/     # Where to reach the manual annotations
+videos_path = /home/sleon/MNM_version2/Mingle/videos/downsample/    # Where to reach the videos
+output_path = /home/sleon/Output_People_ReID_MatchNMingle/          # Where to save the results files
